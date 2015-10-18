@@ -1,5 +1,5 @@
 # Slot-Machine
-Simple game Slot Machine
+Simple console game Slot Machine
 
 Language C++, OOP.
 Max bet - 100.
